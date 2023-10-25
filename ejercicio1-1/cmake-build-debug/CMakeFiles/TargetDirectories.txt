@@ -1,0 +1,3 @@
+/Users/sofivazsanch/Documents/GitHub/proyecto2/cmake-build-debug/CMakeFiles/main.dir
+/Users/sofivazsanch/Documents/GitHub/proyecto2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofivazsanch/Documents/GitHub/proyecto2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
