@@ -1,0 +1,3 @@
+C:/Users/usuario/Documents/GitHub/EJ8/cmake-build-debug/CMakeFiles/EJ8.dir
+C:/Users/usuario/Documents/GitHub/EJ8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/usuario/Documents/GitHub/EJ8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

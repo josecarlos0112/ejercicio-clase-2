@@ -1,0 +1,3 @@
+C:/Users/usuario/Documents/GitHub/ejercicio-clase-2/EJ7/cmake-build-debug/CMakeFiles/EJ7.dir
+C:/Users/usuario/Documents/GitHub/ejercicio-clase-2/EJ7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/usuario/Documents/GitHub/ejercicio-clase-2/EJ7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
